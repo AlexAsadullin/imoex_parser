@@ -74,5 +74,3 @@ if __name__ == '__main__':
     }
     economical_news = []
     parse_news()
-
-
